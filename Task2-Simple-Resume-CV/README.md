@@ -34,13 +34,6 @@ Portfolio-Card/
     └── profile.jpg
 ```
 
-## ▶️ How to Run the Project
-
-1. Download or clone this repository.
-2. Open the project folder.
-3. Open `index.html` in your browser.
-4. Explore the portfolio card.
-
 ## 🎯 Purpose
 
 The purpose of this project is to practice frontend development skills by building a visually appealing and responsive portfolio component using core web technologies.
