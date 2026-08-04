@@ -17,10 +17,10 @@ A modern and responsive navigation bar built using HTML, CSS, and JavaScript. Th
 
 ## Project Structure
 Responsive-Navbar/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+  ├── index.html
+    ├── style.css
+      ├── script.js
+        └── README.md
 
 ## Author
 Gargi S.
